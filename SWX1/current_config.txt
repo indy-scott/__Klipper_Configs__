@@ -1,0 +1,2 @@
+## Current Sidewinder X1 Configuration
+Only MOD is the E3D Hemera Extruder and Hotend combo
